@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.antigravity/
+.DS_Store
+.env
+.next/
+build/
