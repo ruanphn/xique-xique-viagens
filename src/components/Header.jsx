@@ -72,7 +72,7 @@ const Header = () => {
                 <div style={{ color: 'var(--orange)' }}>
                   X<span style={{ color: 'var(--teal-light)' }}>IQUE</span>
                 </div>
-                <div style={{ color: 'var(--teal-light)', marginTop: '-8px', paddingLeft: '9px' }}>
+                <div style={{ color: 'var(--teal-light)', marginTop: '2px', paddingLeft: '9px' }}>
                   X<span style={{ color: 'var(--orange)' }}>IQUE</span>
                 </div>
               </div>

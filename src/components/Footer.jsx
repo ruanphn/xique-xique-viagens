@@ -143,7 +143,7 @@ const Footer = () => {
                     <div style={{ color: 'var(--orange)', lineHeight: 1 }}>
                       X<span style={{ color: 'var(--teal-light)' }}>IQUE</span>
                     </div>
-                    <div style={{ color: 'var(--teal-light)', marginTop: '-4px', lineHeight: 1, paddingLeft: '8px' }}>
+                    <div style={{ color: 'var(--teal-light)', marginTop: '2px', lineHeight: 1, paddingLeft: '8px' }}>
                       X<span style={{ color: 'var(--orange)' }}>IQUE</span>
                     </div>
                   </div>
